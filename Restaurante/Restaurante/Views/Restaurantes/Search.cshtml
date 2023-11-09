@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Restaurante.Models.Restaurante>
+@{
+    ViewBag.Title = "Restaurantes";
+    ViewBag.classe1 = "item1";
+    ViewBag.classe2 = "item2";
+}
+<div class="transparente">
+    <div class="container">
+        <h2>Restaurantes</h2>
+
+        <div id="inputRestaurantes">
+            <fieldset>
+                <legend>Filtros</legend>
+                <form method="get" action="Search">
+                    Nome:<br />
+                    <input type="text" name="search" id="search" value="@ViewBag.search"/>
+                    <br />
+                    <input type="submit" value="Pesquisar" class="btnAzul" />
+                    <a href="@Url.Action("CadastroRestaurante", "Restaurantes")">
+                        <input type="button" value="Cadastrar novo restaurante" class="btnVerde" />
+                    </a>
+                </form>
+            </fieldset>
+        </div>
+        <div id="restaurantes">
+            <table>
+                <tbody>
+                    <tr class="cabecalho">
+                        <td>Remover</td>
+                        <td>Editar</td>
+                        <td class="tdRestaurante">Restaurantes</td>
+                    </tr>
+                    @{ int i = 0;}
+                    @foreach (var restaurante in Model.ToList())
+                    {
+                        //if (restaurante.NomeRestaurante == ViewBag.search)
+                        //{
+                            i++;
+                            <tr class=@{if (i % 2 == 0)
+                            { @ViewBag.classe1 }
+                            else
+                            { @ViewBag.classe2} }>
+                            <td><a href="@Url.Action("Excluir", "Restaurantes")?id=@restaurante.RestauranteId" class="excluir" title="Excluir">----</a></td>
+                            <td><a href="@Url.Action("Editar", "Restaurantes")?id=@restaurante.RestauranteId" class="editar"><img alt="editar" src="~/Imagens/Editar.png" title="Editar" /></a></td>
+                            <td>@restaurante.NomeRestaurante</td>
+                        </tr>
+                        // }
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

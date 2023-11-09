@@ -1,0 +1,45 @@
+﻿@model Restaurante.Models.Cardapio
+@{
+    ViewBag.Title = "CadastroPratos";
+}
+@ViewBag.idprato; @ViewBag.nomeprato; @ViewBag.valorprato;
+<div class="transparente">
+    <h2>Cadastro de prato</h2>
+
+    <fieldset id="CadastroPrato">
+        <legend>Dados</legend>
+        <form method="get" action="Alterar">
+            <label for="Restaurante">Restaurante:</label>
+            <br />
+            <select id="rest" name="rest" required>
+                @{
+                    foreach (var restaurante in ViewBag.restaurantes)
+                    {
+                        if (restaurante.RestauranteId == ViewBag.idRestaurante)
+                        {
+                           <option value="@restaurante.RestauranteId" selected>@restaurante.NomeRestaurante</option>
+                        }
+                        else
+                        {
+                            <option value="@restaurante.RestauranteId">@restaurante.NomeRestaurante</option>
+                        }
+
+                    }
+                }
+            </select>
+           
+            <br />
+            <input type="hidden" name="id" id="id" value="@Model.CardapioId" required/>
+            <label for="nomePrato">Prato:</label>
+            <br />
+            <input type="text" name="nomePrato" class="maior" id="nomePrato" value="@Model.nomePrato" required/>
+            <br />
+            <label for="valorPrato">Valor:</label>
+            <br />
+            <input type="text" name="valorPrato" id="valorPrato" value="@Model.valorPrato" required/>
+            <br />
+            <input type="reset" name="cancelar" value="Cancelar" class="btnVermelho btn" />
+            <input type="submit" name="salvar" value="Salvar" class="btnVerde btn" />
+        </form>
+    </fieldset>
+</div>

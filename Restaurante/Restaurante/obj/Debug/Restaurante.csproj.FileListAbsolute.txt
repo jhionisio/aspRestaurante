@@ -1,0 +1,168 @@
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\ApplicationInsights.config
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\csc.exe
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\csc.exe.config
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\csc.rsp
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\csi.exe
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\csi.rsp
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.AppContext.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.IO.FileSystem.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\vbc.exe
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\vbc.exe.config
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\vbc.rsp
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\VBCSCompiler.exe
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Restaurante.dll.config
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Restaurante.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Restaurante.pdb
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Antlr3.Runtime.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.Web.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.ApplicationInsights.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Newtonsoft.Json.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Helpers.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Mvc.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Optimization.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Razor.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.Deployment.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.Razor.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\WebGrease.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Helpers.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Mvc.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Optimization.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.Razor.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.Deployment.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\System.Web.WebPages.Razor.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Antlr3.Runtime.pdb
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Newtonsoft.Json.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.ApplicationInsights.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\Microsoft.AI.Web.xml
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.Optimization.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.dll
+c:\users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\EntityFramework.dll
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\EntityFramework.SqlServer.dll
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\EntityFramework.xml
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\bin\EntityFramework.SqlServer.xml
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.InitialCreate.resources
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.AdicionadoCardapio.resources
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.Chavesestrangeiras2.resources
+C:\Users\jmarcelo\onedrive\documentos\visual studio 2022\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.teste.resources
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\ApplicationInsights.config
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\csc.exe
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\csc.exe.config
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\csc.rsp
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\csi.exe
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\csi.rsp
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.AppContext.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\vbc.exe
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\vbc.exe.config
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\vbc.rsp
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\VBCSCompiler.exe
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Restaurante.dll.config
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Restaurante.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Restaurante.pdb
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Antlr3.Runtime.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\EntityFramework.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\EntityFramework.SqlServer.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.Web.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.ApplicationInsights.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Newtonsoft.Json.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Helpers.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Mvc.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Optimization.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Razor.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.Razor.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\WebGrease.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\EntityFramework.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\EntityFramework.SqlServer.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Helpers.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Mvc.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Optimization.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.Razor.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\System.Web.WebPages.Razor.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Antlr3.Runtime.pdb
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Newtonsoft.Json.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.ApplicationInsights.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\Microsoft.AI.Web.xml
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.InitialCreate.resources
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.AdicionadoCardapio.resources
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.Chavesestrangeiras2.resources
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.Migrations.teste.resources
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.dll
+C:\Users\logonrmlocal\Desktop\CPAsp\checkpointAspNet\Restaurante\Restaurante\obj\Debug\Restaurante.pdb

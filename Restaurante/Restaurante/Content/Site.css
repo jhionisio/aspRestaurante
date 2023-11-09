@@ -1,0 +1,197 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url("../Imagens/background.jpg");
+    background-size: cover;
+    -webkit-background-size: cover; /* SAFARI / CHROME */
+    -moz-background-size: cover; /* FIREFOX */
+    -ms-background-size: cover; /* IE */
+    -o-background-size: cover; /* OPERA */
+    background-attachment: fixed;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+nav{
+    left: 40%;
+    position: relative;
+    width: 40em;
+}
+nav li{
+    text-transform: uppercase;
+    margin-left: 10px;
+    list-style: none;
+ 
+}
+nav a {
+    color: #EAEAEA;
+    transition: .5s;
+    font: normal normal normal 12px/1.4em 'open sans',sans-serif;
+}
+
+nav a:hover {
+    color: #b2b1b1;
+    text-decoration: none;
+}
+nav a:focus {
+    color: #b2b1b1;
+}
+
+#restaurantes, #pratos {
+    overflow: auto;
+    max-height: 300px;
+    border: 2px black solid;
+}
+
+#logo{
+    background-image: url("../Imagens/Logo.png");
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-top: 2em;
+    width: 169px;
+    height: 90px;
+    border-bottom: 1px solid #8e8e8e;
+}
+.tracoPeq {
+    border-bottom: 1px solid #8e8e8e;
+    width: 5em;
+    height: 1px;
+    margin: 0 auto;
+}
+#info h1 {
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+#info {
+    color: #EAEAEA;
+}
+#info p{
+        font-size: .95em;
+}
+#contato {
+    border: 1px solid #8e8e8e;
+    padding: 2em;
+    margin: 2em;
+    margin-bottom: 10em;
+}
+
+#restaurantes .cabecalho, #pratos .cabecalho{
+    background-color: #c7c7c7;
+}
+#restaurantes td, #pratos table td{
+    padding:6px;
+    border-left: black 2px solid;
+}
+#restaurantes .item1, #pratos .item1{
+    background-color: #e0e0e0;
+}
+#restaurantes .item2, #pratos .item2{
+    background-color: #ffffff;
+}
+#restaurantes tr:hover, #pratos tr:hover {
+    background-color: #b9b9b9;
+}
+#restaurantes table, #pratos table{
+    width: 100%;
+}
+#restaurantes table .tdRestaurante{
+    width: 87%;
+}
+#inputRestaurantes{
+    margin-bottom: 4%;
+}
+
+#inputRestaurantes #search{
+    width: 80%;
+    margin-bottom: 1%;
+}
+
+.btnVerde {
+    background-color: forestgreen;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    transition: .5s;
+}
+
+.btnAzul {
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 2px;
+    transition: .5s;
+}
+.btnVerde:hover {
+    background-color: #176017;
+}
+
+.btnAzul:hover {
+    background-color: #1a78d4;
+}
+.btnVermelho {
+    background-color: #b50000;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    transition: .5s;
+}
+
+.btnVermelho:hover {
+    background-color: #940000;
+}
+
+
+#pratos{
+    margin-top: 2em;
+}
+.maior, #CadastroPrato select {
+    width: 80%;
+}
+
+input[type="text"], #CadastroPrato select {
+    margin-bottom: 1em;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+.transparente{
+    background-image: url("../Imagens/backContainer.png");
+    margin-top: 3em;
+    padding: 1em;
+}
+#info {
+    width: 21em;
+    color: #EAEAEA;
+    min-height: 900px;
+    background-color: #1e1e1e;
+    margin-left: 5em;
+    padding: 5px;
+    text-align: center;
+    top: 0;
+    position: absolute;
+}
+
+.excluir {
+    color: red;
+}
+.excluir:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.editar img{
+    width: 1.3em;
+
+}
+

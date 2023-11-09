@@ -1,0 +1,40 @@
+﻿@model Restaurante.Models.Cardapio
+@{
+    ViewBag.Title = "Index";
+    ViewBag.classe1 = "item1";
+    ViewBag.classe2 = "item2";
+}
+
+
+<div class="transparente">
+    <h2>Pratos</h2>
+    <a href="@Url.Action("cadastroPratos", "Pratos")"><button class='btnVerde'>Cadastrar novo prato</button></a>
+
+        <div id="pratos">
+            <table>
+                <tbody>
+                    <tr class="cabecalho">
+                        <td>Apagar</td>
+                        <td>Editar</td>
+                        <td>Restaurante</td>
+                        <td>Prato</td>
+                        <td>Preço</td>
+                    </tr>
+                    @{ int i = 0;}
+                    @foreach (var prato in Model.Lista())
+                    {
+                        i++;
+                        <tr class=@{if (i % 2 == 0) { @ViewBag.classe1 } else { @ViewBag.classe2} }>
+                            <td><a href="@Url.Action("Excluir", "Pratos")?id=@prato.CardapioId" class="excluir" title="Excluir">----</a></td>
+                            <td><a href="@Url.Action("Editar", "Pratos")?id=@prato.CardapioId&rest=@prato.Restaurante.RestauranteId" class="editar"><img alt="editar" src="~/Imagens/Editar.png" title="Editar"/></a></td>
+                            <td>@prato.Restaurante.NomeRestaurante</td>
+                            <td>@prato.nomePrato</td>
+                            <td>@prato.valorPrato</td>
+                        </tr>
+    }
+
+
+                </tbody>
+            </table>
+        </div>
+</div>

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Restaurante.Models.Restaurante>
+@{
+    ViewBag.Title = "CadastroPratos";
+}
+@ViewBag.idprato; @ViewBag.nomeprato; @ViewBag.valorprato;
+<div class="transparente">
+    <h2>Cadastro de prato</h2>
+
+    <fieldset id="CadastroPrato">
+        <legend>Dados</legend>
+        <form method="post" action="CadastroPra">
+            <label for="Restaurante">Restaurante:</label>
+            <br />
+            <select id="rest" name="rest" required>
+                @{
+                    foreach (var restaurante in Model.ToList())
+                    {
+                        <option value="@restaurante.RestauranteId">@restaurante.NomeRestaurante</option>
+                    }
+                }
+             </select>
+            <br />
+            <label for="nomePrato">Prato:</label>
+            <br />
+            <input type="text" name="nomePrato" class="maior" id="nomePrato" required/>
+            <br />
+            <label for="valorPrato">Valor:</label>
+            <br />
+            <input type="text" name="valorPrato" id="valorPrato" required placeholder="12,80"/>
+            <br />
+            <a href="@Url.Action("Index", "Pratos")">
+                <input type="button" name="cancelar" value="Cancelar" class="btnVermelho btn" />
+            </a>
+            <input type="submit" name="salvar" value="Salvar" class="btnVerde btn" />
+        </form>
+    </fieldset>
+</div>
